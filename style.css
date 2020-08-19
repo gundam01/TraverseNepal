@@ -1,0 +1,51 @@
+body{
+	background-image: url(images/nepal.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 100px auto;
+}
+
+.login-left{
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+}
+
+.login-right{
+	background: #fff;
+	padding: 30px;
+}
+
+/*.form-control{
+	background-color: transparent !important;
+}*/
+
+
+
+h6{
+	color: #fff !important;
+	
+	text-align: left;
+	text-transform: uppercase;
+	padding-left: 5px;
+}
+
+/*.myDiv{
+	float: right;
+	padding-right: 5px;
+
+}*/
+
+p{
+	color: #fff !important;
+	margin-top: 150px !important;
+	text-align: center;
+	font-family: 'Carter One', cursive;
+	font-size: 60px;
+
+}
